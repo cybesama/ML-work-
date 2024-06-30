@@ -1,0 +1,44 @@
+{
+  "build": "hf2abe2d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libsqlite 3.45.3 h091b4b1_0",
+    "libzlib >=1.2.13,<2.0.0a0",
+    "ncurses >=6.4.20240210,<7.0a0",
+    "readline >=8.2,<9.0a0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/sqlite-3.45.3-hf2abe2d_0",
+  "files": [
+    "bin/sqlite3"
+  ],
+  "fn": "sqlite-3.45.3-hf2abe2d_0.conda",
+  "license": "Unlicense",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/sqlite-3.45.3-hf2abe2d_0",
+    "type": 1
+  },
+  "md5": "95ba63aee059cdfc10b7e3ee1dd4c15d",
+  "name": "sqlite",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/sqlite-3.45.3-hf2abe2d_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/sqlite3",
+        "path_type": "hardlink",
+        "sha256": "fcdf30cf980f76fc012610e9eb0190666c15e4854c421f1668d8d01ab32bbe67",
+        "sha256_in_prefix": "fcdf30cf980f76fc012610e9eb0190666c15e4854c421f1668d8d01ab32bbe67",
+        "size_in_bytes": 1889056
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "1d618ce2622e2e976f8f28ede2f14ae20f19f64eda706d9eda6419393c48015a",
+  "size": 812413,
+  "subdir": "osx-arm64",
+  "timestamp": 1713367802000,
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/sqlite-3.45.3-hf2abe2d_0.conda",
+  "version": "3.45.3"
+}
