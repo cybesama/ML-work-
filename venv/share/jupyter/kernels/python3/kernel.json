@@ -1,6 +1,6 @@
 {
  "argv": [
-  "/Users/cybesama/Desktop/ML(nayak)/venv/bin/python",
+  "python",
   "-m",
   "ipykernel_launcher",
   "-f",
